@@ -1,4 +1,4 @@
-KoaZip is a zip extractor/creator developed by me (Dave) and my friend Koa.
+### KoaZip is a zip extractor/creator developed by me (Dave) and my friend Koa.
 terms of service: 
 https://sites.google.com/view/kzipterm/home
 
