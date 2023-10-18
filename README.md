@@ -7,4 +7,4 @@ https://sites.google.com/view/kzipterm/home
 
 
 
-![koazipp](https://github.com/unfortunatelynotadog/koazip/assets/142083695/fbb17a8a-3931-4525-9ae4-9bb96ef8349d)
+![koazip2](https://github.com/unfortunatelynotadog/koazip/assets/142083695/714647e8-f143-4ee6-90b3-60754d09c748)
